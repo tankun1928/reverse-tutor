@@ -1,0 +1,11 @@
+{
+  "name": "reverse-tutor",
+  "owner": { "name": "Tenss" },
+  "plugins": [
+    {
+      "name": "reverse-tutor",
+      "source": "./",
+      "description": "The AI quizzes you on the code it wrote, then teaches only the gaps."
+    }
+  ]
+}

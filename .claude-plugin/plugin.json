@@ -1,0 +1,8 @@
+{
+  "name": "reverse-tutor",
+  "version": "0.1.0",
+  "description": "Flip the roles: the AI quizzes you on the code it wrote, then teaches only the gaps. A cure for vibe coding.",
+  "author": { "name": "Tenss" },
+  "license": "MIT",
+  "keywords": ["learning", "education", "quiz", "code-review", "vibe-coding"]
+}
